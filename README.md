@@ -13,7 +13,7 @@ I'm a frontend dev student at Hyper Island in Stockholm! I'm also many other thi
 
 📚 I'm trying to learn to work with 3D in the web, right now through messing around with Three.js! I've most recently applied it on my portfolio homepage which you can check out here!
 
-🔭 Some of the tech I've been using the last year includes HTML, CSS, JavaScript, React, Express, Node, MongoDB, Sanity, Three.js, Next and Tailwind. I've heard cool things about Svelte, so I'd like to explore that in the future as well.
+🔭 Some of the tech I've been using the last year includes HTML, CSS, JavaScript, React, Express, Node, MongoDB, Sanity, Three.js, Figma, Next and Tailwind. I've heard cool things about Svelte, so I'd like to explore that in the future as well.
 
 ## Get in touch!
 
