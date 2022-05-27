@@ -1,5 +1,5 @@
 # Hey! I'm Johan 🌌
-I'm a frontend dev student at Hyper Island in Stockholm! I'm also many other things, like an electronic musician and DJ, video game nerd, ramen enthusiast and friend of cats. 
+I'm a frontend dev student at Hyper Island in Stockholm! I'm also many other things, like an electronic musician, DJ, video game nerd, ramen enthusiast and friend of cats 😺
 
 ## Some quick fun little notes about me;
 * Five years of professional experience editing esports data 🕹️
