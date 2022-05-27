@@ -1,4 +1,4 @@
-### Hey! I'm Johan 🌌
+# Hey! I'm Johan 🌌
 
 I'm a frontend dev student at Hyper Island in Stockholm! (I'm also many other things, like an electronic musician and DJ, video game nerd, ramen enthusiast, friend of cats (so on and so forth)). 
 
