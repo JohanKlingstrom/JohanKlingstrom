@@ -15,7 +15,7 @@ I'm a frontend dev student at Hyper Island in Stockholm! I'm also many other thi
 
 🔭 Some of the tech I've been using the last year includes HTML, CSS, JavaScript, React, Express, Node, MongoDB, Sanity, Three.js, Figma, Next and Tailwind. I've heard cool things about Svelte, so I'd like to explore that in the future as well.
 
-## Get in touch!
+## Get in touch! ✌️
 
 Let's build something fun together! 
-You can reach me at: johan.klingstrom@hyperisland.se, or through LinkedIn at https://www.linkedin.com/in/johan-klingstr%C3%B6m-19722321b
+You can reach me at: <johan.klingstrom@hyperisland.se>, or through [LinkedIn](https://www.linkedin.com/in/johan-klingstr%C3%B6m-19722321b)
