@@ -3,7 +3,7 @@
 I'm a frontend dev student at Hyper Island in Stockholm! I'm also many other things, like an electronic musician and DJ, video game nerd, ramen enthusiast and friend of cats. 
 
 ## Some quick fun little notes about me;
-- Four years of professional experience editing esports data 🕹️
+- Five years of professional experience editing esports data 🕹️
 - Over two million streams on Spotify 🎵
 - Studied philosophy at Stockholms University 💭
 
