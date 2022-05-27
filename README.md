@@ -1,7 +1,7 @@
 # Hey! I'm Johan 🌌
 ![banner](https://user-images.githubusercontent.com/75391606/170718709-922b64f0-d982-46c3-aa1e-c2c83b98c881.gif)
 
-I'm a frontend dev student at Hyper Island in Stockholm! I'm also many other things, like an electronic musician, DJ, video game nerd, ramen enthusiast and friend of cats 😺
+I'm a frontend dev student at Hyper Island in Stockholm! I'm also many other things, like an electronic musician, DJ, video game nerd, ramen enthusiast and friend of cats. The alien meatball in my banner was made in Three.js.
 
 ## Some quick fun little notes about me;
 * Five years of professional experience editing esports data 🕹️
