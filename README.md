@@ -1,5 +1,4 @@
 # Hey! I'm Johan 🌌
-![banner](https://user-images.githubusercontent.com/75391606/170718709-922b64f0-d982-46c3-aa1e-c2c83b98c881.gif)
 
 I'm a frontend dev intern from Stockholm! I'm also many other things, like an electronic musician, video game nerd, ramen enthusiast and friend of cats.
 
