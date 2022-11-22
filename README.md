@@ -5,4 +5,4 @@ I'm a frontend dev intern from Stockholm! I'm also many other things, like an el
 ## What am I doing right now?
 🚀 Interning at North Kingdom in northern Sweden.
 
-📚 Learning how to build Web3 applications, frontend in Next.js, and Unreal Engine 5.
+📚 Learning how to build web apps with TypeScript, frontend in Next.js, and cool stuff in Unreal Engine 5.
