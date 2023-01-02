@@ -5,4 +5,4 @@ I'm a frontend dev (student) from Stockholm. I'm also many other things, like an
 ## What am I doing right now?
 🚀 Interning at North Kingdom!
 
-📚 Learning how to build stuff with Next.js, Three.js and Unreal Engine 5.
+📚 Learning how to build cool stuff.
