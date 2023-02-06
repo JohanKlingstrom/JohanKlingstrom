@@ -5,4 +5,5 @@ I'm also other things, like an electronic musician, video game nerd and outdoors
 
 ## What am I doing right now?
 🚀 Interning at North Kingdom, building web stuff.
+<br />
 📚 Currently learning TypeScript, Next.js, and Three.js.
