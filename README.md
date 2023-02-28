@@ -6,4 +6,4 @@ I'm also an electronic musician, ramen enjoyer and video game nerd.
 ## What am I doing right now?
 🚀 Interning at North Kingdom in Skellefteå, building cool web-based stuff.
 <br />
-📚 Learning TypeScript, Next.js, and Three.js.
+📚 Learning TypeScript, Next.js, and Three.js (plus a tiny bit of Unreal Engine).
