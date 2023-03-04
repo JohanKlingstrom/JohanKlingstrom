@@ -1,5 +1,5 @@
 # Hey, I'm Johan!
-I'm a junior frontend developer from Stockholm.
+I'm a junior frontend developer from Stockholm!
 <br />
 I'm also an electronic music producer, ramen enjoyer and video game nerd.
 
@@ -9,4 +9,4 @@ I'm also an electronic music producer, ramen enjoyer and video game nerd.
 📚 Learning TypeScript, Next.js, and Three.js (plus a tiny bit of Unreal Engine).
 
 ## Contact
-Have any questions or fun projects in mind? Feel free to reach out at johan.klingstrom@hyperisland.se
+Have any questions or fun projects in mind? Feel free to reach out at johan.klingstrom@hyperisland.se!
