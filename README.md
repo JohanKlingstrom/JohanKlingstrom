@@ -6,7 +6,7 @@ I'm also an electronic music producer of over 5 years, ramen enjoyer & video gam
 ## What am I doing right now?
 🚀 Interning at North Kingdom in Skellefteå.
 <br />
-📚 Learning web stuff like *Three.js* & *Next.js*.
+📚 Learning to build with *Three.js*, *Next.js* & *TypeScript*.
 <br />
 👾 Dipping my toes into gamedev with Unity.
 
