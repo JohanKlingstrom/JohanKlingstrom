@@ -1,14 +1,12 @@
 # Hey, I'm Johan!
-I'm a junior frontend developer from Stockholm!
+I'm a junior front end developer from Stockholm.
 <br />
 I'm also an electronic music producer of over 5 years, ramen enjoyer & video game nerd.
 
 ## What am I doing right now?
-🚀 Interning at North Kingdom in Skellefteå.
+📚 Learning to build web experiences with *Three.js* & *Next.js*.
 <br />
-📚 Learning to build with *Three.js*, *Next.js* & *TypeScript*.
-<br />
-👾 Dipping my toes into gamedev with Unity.
+👾 Exploring some hobby gamedev in *Unity*.
 
 ## Contact me!
 Feel free to reach out at johan.klingstrom@hyperisland.se!
