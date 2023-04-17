@@ -1,10 +1,10 @@
 # Hey, I'm Johan!
-I'm a junior front end developer from Stockholm.
+I'm a front end developer and designer from Stockholm.
 <br />
 I'm also an electronic music producer of over 5 years, ramen enjoyer & video game nerd.
 
 ## What am I doing right now?
-📚 Learning to build web experiences with *Three.js* & *Next.js*.
+📚 Learning how to build web experiences with *Three.js*.
 <br />
 👾 Exploring some hobby gamedev in *Unity*.
 
