@@ -4,9 +4,9 @@ I'm a front end developer and designer from Stockholm.
 I'm also an electronic music producer of over 5 years, ramen enjoyer & video game nerd.
 
 ## What am I doing right now?
-📚 Learning how to build web experiences with *Three.js*.
+📚 Learning to make 3D stuff with *Three.js*.
 <br />
-👾 Exploring some hobby gamedev in *Unity*.
+🏗️ Building things with the *T3* stack.
 
 ## Contact me!
 Feel free to reach out at johan.klingstrom@hyperisland.se!
