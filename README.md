@@ -1,4 +1,4 @@
-# hi, i'm johan
-a frontend developer based in Stockholm currently working at anotherblock.
+# hey there
+i'm johan, a frontend developer based in Stockholm currently working at anotherblock.
 
-interested in 3d, music and ramen.
+feel free to reach out at johanklingstrom@hyperisland.se!
