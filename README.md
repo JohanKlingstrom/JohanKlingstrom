@@ -1,4 +1,4 @@
 # Hey there 👋
-I'm Johan, a front end developer based in Stockholm. I build stuff with TypeScript, NextJS and Three.js.
+I'm Johan, a web developer based in Stockholm.
 
 Currently working at anotherblock.
