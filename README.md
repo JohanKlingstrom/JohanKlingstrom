@@ -1,4 +1,4 @@
 # Hey there! 👋
-I'm Johan, a frontend developer and music producer based in Stockholm.
+I'm Johan, a web developer and music producer based in Stockholm.
 
 Currently working at anotherblock.
