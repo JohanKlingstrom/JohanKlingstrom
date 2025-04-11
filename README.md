@@ -1,4 +1,4 @@
 # Hey there! 👋
 I'm Johan, a developer/designer based in Stockholm.
 
-Currently at Chapter Two.
+Currently at Chapter[Two].
