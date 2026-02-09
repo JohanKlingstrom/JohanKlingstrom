@@ -1,4 +1,4 @@
 # Hey there! 👋
-I'm Johan. I am a creative developer and designer, specialized in building user friendly interfaces in Next and React.
+I am a fullstack developer and designer, and UX enjoyer.
 
-Currently doing fullstack at Sitoo.
+Currently doing software at Sitoo.
