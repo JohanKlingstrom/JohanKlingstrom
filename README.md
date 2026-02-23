@@ -1,4 +1,4 @@
 # Hey there! 👋
-I am a fullstack developer and designer, and UX enjoyer.
+I am a creative fullstack developer, and UX enjoyer.
 
 Currently doing software at Sitoo.
